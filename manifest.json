@@ -7,4 +7,9 @@
   "permissions": [
     "https://www.letterboxd.com/*"
   ]
+  
+  "action": {
+    "default_popup": "score.html",
+    "default_icon": "imdblogo.png"
+  }
 }
