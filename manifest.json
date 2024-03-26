@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "RT_Score,
+  "name": "RT_Score",
   "version": "1.0",
   "description": "Check the Rotten Tomatoes score of any movie on Letterboxd",
 
